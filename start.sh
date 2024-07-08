@@ -166,9 +166,9 @@ EOF
       "settings": {
         "clients": [
           {
-            "id": "${uuid}",
+            "id": "${uuid}",https://github.com/mtrack55/am-nodejs-proxy/blob/main/start.sh
             "level": 0,
-            "email": "ansoncloud8@gmail.com"
+            "email": "uunet6@gmail.com"
           }
         ],
         "decryption": "none"
